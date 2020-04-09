@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1586382648 source:c:\temp\uno\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	"card.h"
+	"deck.h"
+	"player.h"
+	<windows.h>
+	<conio.h>
+
+1586381895 c:\temp\uno\include\card.h
+	<ostream>
+	<windows.h>
+	<iostream>
+	<string>
+
+1586282122 c:\temp\uno\include\deck.h
+	"card.h"
+	<ostream>
+
+1586358421 c:\temp\uno\include\player.h
+	"player.h"
+	<vector>
+
+1586381895 source:c:\temp\uno\src\card.cpp
+	"card.h"
+	<windows.h>
+	<iostream>
+	<iostream>
+	<cstdio>
+	<fstream>
+	"card.h"
+	"deck.h"
+	"player.h"
+	<windows.h>
+	<conio.h>
+
+1586355833 source:c:\temp\uno\src\deck.cpp
+	"deck.h"
+	"card.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1586358421 source:c:\temp\uno\src\player.cpp
+	"card.h"
+	"player.h"
+	<iostream>
+	<string.h>
+	<vector>
+	<iostream>
+	<iostream>
+	<cstdio>
+	<fstream>
+	"card.h"
+	"deck.h"
+	"player.h"
+	<windows.h>
+	<conio.h>
+
